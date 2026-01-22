@@ -2,11 +2,15 @@
   "action": "Update",
   "problemTitle": "Two Sum",
   "description": "Given an array of integers, return indices of the two numbers such that they add up to a specific target.",
-  "lastModified": "2026-01-22T02:54:36.809Z",
-  "fileCount": 1,
+  "lastModified": "2026-01-22T18:27:11.781Z",
+  "fileCount": 2,
   "files": [
     {
       "name": "twoSum.js",
+      "language": "javascript"
+    },
+    {
+      "name": "approach2.js",
       "language": "javascript"
     }
   ]
