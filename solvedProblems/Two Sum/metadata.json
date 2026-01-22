@@ -1,0 +1,13 @@
+{
+  "action": "Update",
+  "problemTitle": "Two Sum",
+  "description": "Given an array of integers, return indices of the two numbers such that they add up to a specific target.",
+  "lastModified": "2026-01-22T02:54:36.809Z",
+  "fileCount": 1,
+  "files": [
+    {
+      "name": "twoSum.js",
+      "language": "javascript"
+    }
+  ]
+}
