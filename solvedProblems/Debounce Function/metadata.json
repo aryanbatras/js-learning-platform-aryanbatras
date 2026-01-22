@@ -1,0 +1,13 @@
+{
+  "action": "Update",
+  "problemTitle": "Debounce Function",
+  "description": "Implement a debounce function that limits the rate at which a function gets called",
+  "lastModified": "2026-01-22T18:12:06.627Z",
+  "fileCount": 1,
+  "files": [
+    {
+      "name": "debounce.js",
+      "language": "javascript"
+    }
+  ]
+}
