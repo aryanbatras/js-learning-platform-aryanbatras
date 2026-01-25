@@ -1,0 +1,17 @@
+{
+  "action": "Update",
+  "problemTitle": "Merge Two Sorted Lists",
+  "description": "Merge two sorted linked lists and return it as a sorted list.",
+  "lastModified": "2026-01-25T04:43:17.587Z",
+  "fileCount": 2,
+  "files": [
+    {
+      "name": "mergeLists.js",
+      "language": "javascript"
+    },
+    {
+      "name": "tests.js",
+      "language": "javascript"
+    }
+  ]
+}
