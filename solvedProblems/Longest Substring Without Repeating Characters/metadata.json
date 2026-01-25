@@ -1,0 +1,17 @@
+{
+  "action": "Update",
+  "problemTitle": "Longest Substring Without Repeating Characters",
+  "description": "Given a string, find the length of the longest substring without repeating characters.",
+  "lastModified": "2026-01-25T01:41:24.800Z",
+  "fileCount": 2,
+  "files": [
+    {
+      "name": "longestSubstring.js",
+      "language": "javascript"
+    },
+    {
+      "name": "tests.js",
+      "language": "javascript"
+    }
+  ]
+}
