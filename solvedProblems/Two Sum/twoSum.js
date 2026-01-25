@@ -10,4 +10,4 @@ function twoSum(nums, target) {
   return [];
 }
 
-console.log(twoSum([2, 6, 1, 5], 8));
+// console.log(twoSum([2, 6, 1, 5], 8));
