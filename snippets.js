@@ -5,18 +5,6 @@
 export const SNIPPETS_CONFIG = {
   javascript: [
     {
-      label: "useState",
-      kind: "function",
-      insertText: "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useState($2);",
-      documentation: "React useState hook"
-    },
-    {
-      label: "useEffect", 
-      kind: "function",
-      insertText: "useEffect(() => {\n  $1\n}, [$2]);",
-      documentation: "React useEffect hook"
-    },
-    {
       label: "useCallback",
       kind: "function", 
       insertText: "const ${1:callback} = useCallback(($2) => {\n  $3\n}, [$4]);",
