@@ -5,10 +5,10 @@
 export const SNIPPETS_CONFIG = {
   javascript: [
     {
-      label: "useSecret",
+      label: "useState",
       kind: "function",
       insertText: "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useState($2);",
-      documentation: "React Secret hook"
+      documentation: "React useState hook"
     },
     {
       label: "useEffect", 
