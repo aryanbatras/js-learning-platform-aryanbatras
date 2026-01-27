@@ -1,7 +1,7 @@
 {
   "editor": {
-    "fontSize": 16,
-    "theme": "jsDarkOrange",
+    "fontSize": 20,
+    "theme": "vs-dark",
     "wordWrap": "on",
     "minimap": { "enabled": false },
     "lineNumbers": "off",
