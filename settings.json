@@ -1,11 +1,12 @@
 {
-  "theme": "dark",
-  "fontSize": 14,
-  "tabSize": 2,
-  "wordWrap": true,
-  "lastAccessed": "2026-01-21T12:39:30.567Z",
-  "progress": {},
-  "platform": "js-learning-platform",
-  "lastSync": "2026-01-21T14:34:14.447Z",
-  "fileCount": 0
+  "editor": {
+    "fontSize": 16,
+    "theme": "jsDarkOrange",
+    "wordWrap": "on",
+    "minimap": { "enabled": false },
+    "lineNumbers": "off",
+    "autoClosingBrackets": "always",
+    "autoClosingQuotes": "always",
+    "autoIndent": "full"
+  }
 }
