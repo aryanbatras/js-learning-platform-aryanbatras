@@ -1,0 +1,12 @@
+{
+  "name": "my-js-homepage-config",
+  "version": "1.0.0",
+  "description": "Configuration files for JS Homepage",
+  "scripts": {
+    "start": "echo 'Ready to code!'"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
