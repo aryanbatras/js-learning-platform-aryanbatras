@@ -1,10 +1,10 @@
 {
   "editor": {
-    "fontSize": 20,
-    "theme": "vs-dark",
+    "fontSize": 24,
+    "theme": "light",
     "wordWrap": "on",
-    "minimap": { "enabled": false },
-    "lineNumbers": "off",
+    "minimap": { "enabled": true },
+    "lineNumbers": "on",
     "autoClosingBrackets": "always",
     "autoClosingQuotes": "always",
     "autoIndent": "full"
