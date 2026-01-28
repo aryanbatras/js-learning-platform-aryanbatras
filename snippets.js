@@ -3,44 +3,6 @@
 // Structure: language -> array of snippet objects
 
 export const SNIPPETS_CONFIG = {
-  javascript: [
-    {
-      label: "useState",
-      kind: "function",
-      insertText: "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useState($2);",
-      documentation: "React useState hook"
-    },
-    {
-      label: "useEffect", 
-      kind: "function",
-      insertText: "useEffect(() => {\n  $1\n}, [$2]);",
-      documentation: "React useEffect hook"
-    },
-    {
-      label: "useCallback",
-      kind: "function", 
-      insertText: "const ${1:callback} = useCallback(($2) => {\n  $3\n}, [$4]);",
-      documentation: "React useCallback hook"
-    },
-    {
-      label: "useMemo",
-      kind: "function",
-      insertText: "const ${1:memoizedValue} = useMemo(() => $2, [$3]);",
-      documentation: "React useMemo hook"
-    },
-    {
-      label: "React Component",
-      kind: "function",
-      insertText: "function ${1:ComponentName}({$2}) {\n  return (\n    <div>\n      $3\n    </div>\n  );\n}",
-      documentation: "React functional component"
-    },
-    {
-      label: "Arrow Component",
-      kind: "function",
-      insertText: "const ${1:ComponentName} = ({$2}) => {\n  return (\n    <div>\n      $3\n    </div>\n  );\n};",
-      documentation: "React arrow function component"
-    }
-  ],
   typescript: [
     {
       label: "TypeScript Interface",
